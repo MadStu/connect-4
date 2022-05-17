@@ -144,7 +144,7 @@ All the mutable game data is held within the Game class and is updated after eve
 
 ## Logic Flow
 
-- The program begins by calling the welcome() function which displays the logo and asks the user if they'd like to being playing or want to read the instructions first.
+- The program begins by calling the welcome() function which displays the logo and asks the user if they'd like to begin playing or want to read the instructions first.
 
 - Input is validated and if the user wants to read the instructions, then that slide show of instructional screens is shown before rejoining the flow.
 
